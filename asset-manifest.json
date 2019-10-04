@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Crud-App/static/css/main.1a48688b.chunk.css",
+    "main.js": "/Crud-App/static/js/main.0a4cf36d.chunk.js",
+    "main.js.map": "/Crud-App/static/js/main.0a4cf36d.chunk.js.map",
+    "runtime-main.js": "/Crud-App/static/js/runtime-main.afe24139.js",
+    "runtime-main.js.map": "/Crud-App/static/js/runtime-main.afe24139.js.map",
+    "static/js/2.de738935.chunk.js": "/Crud-App/static/js/2.de738935.chunk.js",
+    "static/js/2.de738935.chunk.js.map": "/Crud-App/static/js/2.de738935.chunk.js.map",
+    "index.html": "/Crud-App/index.html",
+    "precache-manifest.176333ce2da2f2f281b87d6f1dfd660d.js": "/Crud-App/precache-manifest.176333ce2da2f2f281b87d6f1dfd660d.js",
+    "service-worker.js": "/Crud-App/service-worker.js",
+    "static/css/main.1a48688b.chunk.css.map": "/Crud-App/static/css/main.1a48688b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe24139.js",
+    "static/js/2.de738935.chunk.js",
+    "static/css/main.1a48688b.chunk.css",
+    "static/js/main.0a4cf36d.chunk.js"
+  ]
+}
